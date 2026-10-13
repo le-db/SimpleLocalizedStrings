@@ -6,7 +6,7 @@ Last tested on Unity 6.4
 
 <img width="518" height="500" alt="sls" src="https://github.com/user-attachments/assets/4c9e7d4e-109a-4220-b20b-fe6bfcd90a9d" />
 
-[drawio](https://github.com/TPS-Geronam/SimpleLocalizedStrings/blob/main/sls.drawio)
+[drawio](https://github.com/le-db/SimpleLocalizedStrings/blob/main/sls.drawio)
 
 ## Dependencies
 - [Localization](https://docs.unity3d.com/Packages/com.unity.localization@1.5) 
